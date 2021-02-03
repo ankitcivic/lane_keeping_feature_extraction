@@ -37,7 +37,7 @@ $ python test.py
   - Combine image
   
   
-![Image Processing](https://github.com/snbagkar/Lane_Keeping/blob/main/6230e17a-59c4-400f-a3a7-0cdacc3448bd.jpeg)  
+![Image Processing](https://github.com/ankitcivic/lane_keeping_feature_extraction/blob/main/Images/lanekeeping_image.jpeg)  
 
   
 # For Controller basic PID controller is used 
@@ -48,4 +48,4 @@ $ python test.py
 
 
 # Final output
-![Alt Text](https://github.com/snbagkar/Lane_Keeping/blob/main/AdvanceLaneKeeping-_2.gif)
+![Alt Text](https://github.com/ankitcivic/lane_keeping_feature_extraction/blob/main/Images/lanekeeping.gif)
